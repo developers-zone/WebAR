@@ -1,3 +1,9 @@
+.loadqr{
+  width:115px;
+  height:115px;
+}
+
+
 /*search box css start here*/
 .search-sec{
     padding: 2rem;
