@@ -1,8 +1,12 @@
 # Welcome to WEBAR Workspace of SAM
 
-8th Wall's custom SLAM engine powers interactive augmented reality on the web. ... Launch rich, interactive AR experiences that can be viewed directly
+8th Wall's custom SLAM engine powers interactive augmented reality on the web. ...
+
+Launch rich, interactive AR experiences that can be viewed directly
 
 Go through [My workspace](https://tunawebar.glitch.me/). 
+
+
 
 
 
