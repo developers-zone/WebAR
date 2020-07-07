@@ -50,7 +50,7 @@
     "budo": "^11.6.3",
     "chalk": "^2.1.0",
     "concurrently": "^3.5.0",
-    "electron": "^3.0.2",
+    "electron": "^7.2.4",
     "electron-packager": "^12.1.2",
     "glslify": "^6.3.1",
     "node-fetch": "^1.7.3",
