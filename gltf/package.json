@@ -36,7 +36,7 @@
     "dat.gui": "^0.7.5",
     "glob-to-regexp": "^0.4.0",
     "gltf-validator": "^2.0.0-dev.2.7",
-    "handlebars": "^4.2.0",
+    "handlebars": "^4.7.7",
     "open": "0.0.5",
     "query-string": "^4.3.4",
     "serve": "^10.1.2",
